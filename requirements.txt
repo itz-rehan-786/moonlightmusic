@@ -10,4 +10,4 @@ speedtest-cli
 numpy
 flask
 flask_restful
-PyTgCalls
+tgcalls==2.0.0
